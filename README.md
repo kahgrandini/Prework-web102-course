@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://github.com/Prework-WEB102-course/seamonster6.gif)
+![](https://github.com/Prework-web102-course/seamonster6.gif)
 
 
 GIF created with LiceCap

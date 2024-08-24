@@ -33,6 +33,10 @@ another visualization through Giphy:
 
 https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9lYW1qeG5vdGsyNHg4OGI4OWd4M2loYzdib3N5Zmpod2Y1Y3QzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C6Fh8Y6cKLif2tPW56/giphy.gif
 
+another visualization live mode from github:
+
+https://kahgrandini.github.io/Prework-web102-course/
+
 
 
 ## Notes

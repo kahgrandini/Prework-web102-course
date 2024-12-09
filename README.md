@@ -44,7 +44,7 @@ https://kahgrandini.github.io/Prework-web102-course/
 
 ## License
 
-    Copyright [2023] [Karina Grandini]
+    Copyright [2025] [Karina Grandini]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
